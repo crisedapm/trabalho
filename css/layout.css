@@ -3,6 +3,11 @@
 	    font-family: verdana;
 	}
 
+	.txt {
+		width: 50%;
+		text-align: justify;
+	}
+
 	footer {
 	    display: block;
 	    background-color: #F8F8FF;

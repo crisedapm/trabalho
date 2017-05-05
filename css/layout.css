@@ -2,6 +2,11 @@
 	    margin: 0;
 	    padding: 0;
 	}
+
+	header {
+	    position: fixed;
+	}
+
 	ul {
 	    margin: 0;
     	list-style-type: none;	    

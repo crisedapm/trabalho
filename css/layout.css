@@ -47,5 +47,9 @@
 	}
 
 	li a:hover {
-	    background-color: #DCDCDC
+		color: white;
+   	    background: #68B92C;
+   	    transition:all 0.3s;
+	}
+
 	}

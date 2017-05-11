@@ -51,4 +51,6 @@
    	    transition:all 0.8s;
 	}
 
-
+	hr {
+		width: 20%;
+	}

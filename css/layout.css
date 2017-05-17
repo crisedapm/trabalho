@@ -5,9 +5,10 @@
    
         /*   DIVS   */ 
 
+	/*box-shadow: 0px 7px 13px #f2f2f2;*/
+
 	.barra {
 		position: fixed;
-   		box-shadow: 0px 7px 13px #f2f2f2;
 		width: 100%;
 	}
 

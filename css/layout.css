@@ -12,12 +12,15 @@
 		width: 100%;
 	}
 
-	.txt {
-		width: 50%;
-		text-align: justify;
+	.diario {
 		margin-right: 30px;
                 padding: 8px 18px;
 		border: 1px solid #204156;
+	}
+
+	.txt {
+		width: 50%;
+		text-align: justify;
 	}
 
 	/*   FIM DIVS   */

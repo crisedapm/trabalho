@@ -12,6 +12,10 @@
 		width: 100%;
 	}
 
+	.centro {
+  	        text-align: center;
+	}
+
 	.diario {
 		margin-right: 30px;
                 padding: 8px 18px;

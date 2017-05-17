@@ -12,11 +12,9 @@
 		width: 100%;
 	}
 
-	.logobarra {
-		float: right;
-		text-shadow: 0 2px #000000;
-		font-family: 'Trebuchet MS', 'Helvetica';
-		color: #993333;
+	.ativo {
+		color: white;
+		background: #68B92C;
 	}
 
 	.centro {

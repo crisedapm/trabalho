@@ -12,15 +12,12 @@
 		width: 100%;
 	}
 
-	.txthome h1 p img {
-  		margin-right: 30px;
-                padding: 8px 18px;
-		border: 1px solid #204156;
-	}
-
 	.txt {
 		width: 50%;
 		text-align: justify;
+		margin-right: 30px;
+                padding: 8px 18px;
+		border: 1px solid #204156;
 	}
 
 	/*   FIM DIVS   */

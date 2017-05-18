@@ -85,13 +85,12 @@
 	    text-decoration: none;
 	}
 
-	li a:hover {
-	    color: white;
-   	    background: #68B92C;
+	li a:hover:not(.ativo) {
+   	    background: #DDDDDD;
    	    transition: all 0.4s;
 	}
 
-	li a.active {
+	li a.ativo {
    	    color: white;
             background-color: #68B92C;
         }

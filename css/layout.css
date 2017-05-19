@@ -35,7 +35,7 @@
   		padding-right: 3px;
 	}
 
-	.bandeira:hover:active {
+	.bandeira:active {
 		padding-top: 16px;
 		top: 2px;
 	}

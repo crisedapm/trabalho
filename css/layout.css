@@ -35,6 +35,11 @@
   		padding-right: 3px;
 	}
 
+	.bandeira {
+   		padding-top: 15px;
+    		padding-right: 3px;
+	}
+
 	.barra {
 		position: fixed;
 		width: 100%;

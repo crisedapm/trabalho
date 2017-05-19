@@ -35,9 +35,9 @@
   		padding-right: 3px;
 	}
 
-	.bandeira {
-   		padding-top: 15px;
-    		padding-right: 3px;
+	.bandeira:hover:active {
+		background-color: #F8F8FF;
+		top: 2px;
 	}
 
 	.barra {
